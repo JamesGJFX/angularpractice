@@ -12,3 +12,7 @@ Read - https://www.sitepoint.com/10-reasons-use-angularjs/
 
 Steps to take:
 Visual Studio 2017
+
+REACT
+
+https://medium.com/javascript-scene/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c
